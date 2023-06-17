@@ -1,7 +1,0 @@
-train: ./train/images/
-val: ./valid/images/
-#test: ./test/images/
-
-nc: 13
-
-names: ['bag', 'bottle', 'candle', 'cap', 'glass', 'glasses', 'hat', 'laptop', 'penceil_case', 'phone', 'shoe', 'speaker', 'teddy_bear'] 
