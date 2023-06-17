@@ -1,0 +1,7 @@
+train: ./train/images/
+val: ./valid/images/
+test: ./test/images/
+
+nc: 11
+
+names: ['bag', 'bottle', 'candle', 'glass', 'glasses', 'headwear', 'laptop', 'penceil_case', 'phone', 'shoe', 'teddy_bear'] 
